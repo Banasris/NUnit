@@ -1,0 +1,8 @@
+C:\Users\banasri\PlayArea\NUnit\bin\Debug\netcoreapp3.1\NUnits.deps.json
+C:\Users\banasri\PlayArea\NUnit\bin\Debug\netcoreapp3.1\NUnits.dll
+C:\Users\banasri\PlayArea\NUnit\bin\Debug\netcoreapp3.1\NUnits.pdb
+C:\Users\banasri\PlayArea\NUnit\obj\Debug\netcoreapp3.1\NUnits.csprojAssemblyReference.cache
+C:\Users\banasri\PlayArea\NUnit\obj\Debug\netcoreapp3.1\NUnits.AssemblyInfoInputs.cache
+C:\Users\banasri\PlayArea\NUnit\obj\Debug\netcoreapp3.1\NUnits.AssemblyInfo.cs
+C:\Users\banasri\PlayArea\NUnit\obj\Debug\netcoreapp3.1\NUnits.dll
+C:\Users\banasri\PlayArea\NUnit\obj\Debug\netcoreapp3.1\NUnits.pdb
